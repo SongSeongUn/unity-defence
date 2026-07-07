@@ -1,0 +1,30 @@
+﻿[
+  {
+    "No": 1001,
+    "Battle_Stand": "Main_1Tier_Blade_Stand",
+    "Battle_Win": "Main_1Tier_Blade_Win",
+    "Battle_Lose": "Main_1Tier_Blade_Lose",
+    "Illustration": "Main_1Tier_Blade_Illustration"
+  },
+  {
+    "No": 1002,
+    "Battle_Stand": "Main_1Tier_Fire_Stand",
+    "Battle_Win": "Main_1Tier_Fire_Win",
+    "Battle_Lose": "Main_1Tier_Fire_Lose",
+    "Illustration": "Main_1Tier_Fire_Illustration"
+  },
+  {
+    "No": 1003,
+    "Battle_Stand": "Main_1Tier_Thunder_Stand",
+    "Battle_Win": "Main_1Tier_Thunder_Win",
+    "Battle_Lose": "Main_1Tier_Thunder_Lose",
+    "Illustration": "Main_1Tier_Thunder_Illustration"
+  },
+  {
+    "No": 1004,
+    "Battle_Stand": "Main_1Tier_Ice_Stand",
+    "Battle_Win": "Main_1Tier_Ice_Win",
+    "Battle_Lose": "Main_1Tier_Ice_Lose",
+    "Illustration": "Main_1Tier_Ice_Illustration"
+  }
+]

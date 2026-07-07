@@ -1,0 +1,34 @@
+﻿[
+  {
+    "No": 1,
+    "CC_Type": 1,
+    "CC_Time_Rate": 200000,
+    "CC_Chance_Rate": 20000,
+    "CC_Debuff_Rate": 50000,
+    "CC_Image": "CC_Ice_1Tier"
+  },
+  {
+    "No": 2,
+    "CC_Type": 2,
+    "CC_Time_Rate": 300000,
+    "CC_Chance_Rate": 10000,
+    "CC_Debuff_Rate": 0,
+    "CC_Image": "CC_Stun_1Tier"
+  },
+  {
+    "No": 3,
+    "CC_Type": 3,
+    "CC_Time_Rate": 500000,
+    "CC_Chance_Rate": 100000,
+    "CC_Debuff_Rate": 20000,
+    "CC_Image": "CC_Fire_1Tier"
+  },
+  {
+    "No": 4,
+    "CC_Type": 4,
+    "CC_Time_Rate": 500000,
+    "CC_Chance_Rate": 75000,
+    "CC_Debuff_Rate": 25000,
+    "CC_Image": "CC_Thunder_1Tier"
+  }
+]

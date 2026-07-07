@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcac4d1ce7983e841a9ed68fd4bd513d, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerConfigSO
+  WallHP: 1000
+  PlayerData:
+    ProjectilePrefab: {fileID: 6888188200620930918, guid: cc2ef186bbdea304e80389092b4bd5e4, type: 3}
+    No: 1101
+    Prefab: MagicMissile
+    Damage: 100
+    Speed: 1500
+    Delay: 1000
+    Fx: {fileID: 8246176390815099742, guid: 955ade9803dedd64b977eb267b4d08c5, type: 3}
+  selectedSkillNo: 1101

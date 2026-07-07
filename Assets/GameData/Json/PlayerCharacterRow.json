@@ -1,0 +1,23 @@
+﻿[
+  {
+    "No": 1001,
+    "Attack": 100,
+    "Skill_Base_1": 1011,
+    "Skill_Base_2": 0,
+    "Character_Image": 1001
+  },
+  {
+    "No": 1002,
+    "Attack": 100,
+    "Skill_Base_1": 1012,
+    "Skill_Base_2": 0,
+    "Character_Image": 1002
+  },
+  {
+    "No": 1003,
+    "Attack": 100,
+    "Skill_Base_1": 1013,
+    "Skill_Base_2": 0,
+    "Character_Image": 1003
+  }
+]

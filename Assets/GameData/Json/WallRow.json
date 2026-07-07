@@ -1,0 +1,72 @@
+﻿[
+  {
+    "No": 1,
+    "Level": 1,
+    "HP": 10000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 2,
+    "HP": 20000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 3,
+    "HP": 30000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 4,
+    "HP": 40000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 5,
+    "HP": 50000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 6,
+    "HP": 60000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 7,
+    "HP": 70000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 8,
+    "HP": 80000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 9,
+    "HP": 90000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  },
+  {
+    "No": 1,
+    "Level": 10,
+    "HP": 100000,
+    "Wall_Icon": "Wall_Icon_Wood",
+    "Wall_Image": "Wall_Battle_Wood"
+  }
+]

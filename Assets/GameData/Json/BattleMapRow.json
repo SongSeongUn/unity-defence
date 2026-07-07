@@ -1,0 +1,32 @@
+﻿[
+  {
+    "No": 1,
+    "Map_Wave": 4,
+    "Wave_Time": 30,
+    "Map_Image": "Battle_Stage_Nomal"
+  },
+  {
+    "No": 2,
+    "Map_Wave": 4,
+    "Wave_Time": 30,
+    "Map_Image": "Battle_Stage_Nomal"
+  },
+  {
+    "No": 3,
+    "Map_Wave": 4,
+    "Wave_Time": 30,
+    "Map_Image": "Battle_Stage_Nomal"
+  },
+  {
+    "No": 4,
+    "Map_Wave": 4,
+    "Wave_Time": 30,
+    "Map_Image": "Battle_Stage_Nomal"
+  },
+  {
+    "No": 5,
+    "Map_Wave": 4,
+    "Wave_Time": 30,
+    "Map_Image": "Battle_Stage_Nomal"
+  }
+]

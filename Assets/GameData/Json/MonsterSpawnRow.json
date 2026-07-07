@@ -1,0 +1,247 @@
+﻿[
+  {
+    "No": 1,
+    "Wave": 1,
+    "Map_No": 1,
+    "Spawn_Monster": [
+      1001
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 2,
+    "Wave": 2,
+    "Map_No": 1,
+    "Spawn_Monster": [
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 3,
+    "Wave": 3,
+    "Map_No": 1,
+    "Spawn_Monster": [
+      1001,
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 1,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 4,
+    "Wave": 4,
+    "Map_No": 1,
+    "Spawn_Monster": [
+      1003
+    ],
+    "Monster_Count": 1,
+    "Monster_Spawn_Count": 1,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 5,
+    "Wave": 1,
+    "Map_No": 2,
+    "Spawn_Monster": [
+      1001
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 6,
+    "Wave": 2,
+    "Map_No": 2,
+    "Spawn_Monster": [
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 7,
+    "Wave": 3,
+    "Map_No": 2,
+    "Spawn_Monster": [
+      1001,
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 1,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 8,
+    "Wave": 4,
+    "Map_No": 2,
+    "Spawn_Monster": [
+      1003
+    ],
+    "Monster_Count": 1,
+    "Monster_Spawn_Count": 1,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 9,
+    "Wave": 1,
+    "Map_No": 3,
+    "Spawn_Monster": [
+      1001
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 10,
+    "Wave": 2,
+    "Map_No": 3,
+    "Spawn_Monster": [
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 11,
+    "Wave": 3,
+    "Map_No": 3,
+    "Spawn_Monster": [
+      1001,
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 1,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 12,
+    "Wave": 4,
+    "Map_No": 3,
+    "Spawn_Monster": [
+      1003
+    ],
+    "Monster_Count": 1,
+    "Monster_Spawn_Count": 1,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 13,
+    "Wave": 1,
+    "Map_No": 4,
+    "Spawn_Monster": [
+      1001
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 14,
+    "Wave": 2,
+    "Map_No": 4,
+    "Spawn_Monster": [
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 15,
+    "Wave": 3,
+    "Map_No": 4,
+    "Spawn_Monster": [
+      1001,
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 1,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 16,
+    "Wave": 4,
+    "Map_No": 4,
+    "Spawn_Monster": [
+      1003
+    ],
+    "Monster_Count": 1,
+    "Monster_Spawn_Count": 1,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 17,
+    "Wave": 1,
+    "Map_No": 5,
+    "Spawn_Monster": [
+      1001
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 18,
+    "Wave": 2,
+    "Map_No": 5,
+    "Spawn_Monster": [
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 19,
+    "Wave": 3,
+    "Map_No": 5,
+    "Spawn_Monster": [
+      1001,
+      1002
+    ],
+    "Monster_Count": 100,
+    "Monster_Spawn_Count": 10,
+    "Monster_Spawn_Type": 1,
+    "Monster_Count_Time": 3
+  },
+  {
+    "No": 20,
+    "Wave": 4,
+    "Map_No": 5,
+    "Spawn_Monster": [
+      1003
+    ],
+    "Monster_Count": 1,
+    "Monster_Spawn_Count": 1,
+    "Monster_Spawn_Type": 2,
+    "Monster_Count_Time": 3
+  }
+]

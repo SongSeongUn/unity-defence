@@ -1,0 +1,23 @@
+﻿[
+  {
+    "No": 1001,
+    "Monster_Stand": "Monster_Nomal_Ground_1_Stand",
+    "Monster_Walk": "Monster_Nomal_Ground_1_Walk",
+    "Monster_Attack": "Monster_Nomal_Ground_1_Attack",
+    "Monster_Die": "Monster_Nomal_Ground_1_Die"
+  },
+  {
+    "No": 1002,
+    "Monster_Stand": "Monster_Nomal_Air_1_Stand",
+    "Monster_Walk": "Monster_Nomal_Air_1_Walk",
+    "Monster_Attack": "Monster_Nomal_Air_1_Attack",
+    "Monster_Die": "Monster_Nomal_Air_1_Die"
+  },
+  {
+    "No": 1003,
+    "Monster_Stand": "Monster_Boss_Ground_1_Stand",
+    "Monster_Walk": "Monster_Boss_Ground_1_Walk",
+    "Monster_Attack": "Monster_Boss_Ground_1_Attack",
+    "Monster_Die": "Monster_Boss_Ground_1_Die"
+  }
+]

@@ -1,0 +1,702 @@
+﻿[
+  {
+    "Level": 1,
+    "Need_Exp": 1000,
+    "Nomal_Exp": 100,
+    "Mid_Boss_Exp": 500,
+    "Boss_Exp": 1000
+  },
+  {
+    "Level": 2,
+    "Need_Exp": 3000,
+    "Nomal_Exp": 110,
+    "Mid_Boss_Exp": 600,
+    "Boss_Exp": 1300
+  },
+  {
+    "Level": 3,
+    "Need_Exp": 5000,
+    "Nomal_Exp": 120,
+    "Mid_Boss_Exp": 700,
+    "Boss_Exp": 1600
+  },
+  {
+    "Level": 4,
+    "Need_Exp": 7000,
+    "Nomal_Exp": 130,
+    "Mid_Boss_Exp": 800,
+    "Boss_Exp": 1900
+  },
+  {
+    "Level": 5,
+    "Need_Exp": 9000,
+    "Nomal_Exp": 140,
+    "Mid_Boss_Exp": 900,
+    "Boss_Exp": 2200
+  },
+  {
+    "Level": 6,
+    "Need_Exp": 11000,
+    "Nomal_Exp": 150,
+    "Mid_Boss_Exp": 1000,
+    "Boss_Exp": 2500
+  },
+  {
+    "Level": 7,
+    "Need_Exp": 13000,
+    "Nomal_Exp": 160,
+    "Mid_Boss_Exp": 1100,
+    "Boss_Exp": 2800
+  },
+  {
+    "Level": 8,
+    "Need_Exp": 15000,
+    "Nomal_Exp": 170,
+    "Mid_Boss_Exp": 1200,
+    "Boss_Exp": 3100
+  },
+  {
+    "Level": 9,
+    "Need_Exp": 17000,
+    "Nomal_Exp": 180,
+    "Mid_Boss_Exp": 1300,
+    "Boss_Exp": 3400
+  },
+  {
+    "Level": 10,
+    "Need_Exp": 19000,
+    "Nomal_Exp": 190,
+    "Mid_Boss_Exp": 1400,
+    "Boss_Exp": 3700
+  },
+  {
+    "Level": 11,
+    "Need_Exp": 21000,
+    "Nomal_Exp": 200,
+    "Mid_Boss_Exp": 1500,
+    "Boss_Exp": 4000
+  },
+  {
+    "Level": 12,
+    "Need_Exp": 23000,
+    "Nomal_Exp": 210,
+    "Mid_Boss_Exp": 1600,
+    "Boss_Exp": 4300
+  },
+  {
+    "Level": 13,
+    "Need_Exp": 25000,
+    "Nomal_Exp": 220,
+    "Mid_Boss_Exp": 1700,
+    "Boss_Exp": 4600
+  },
+  {
+    "Level": 14,
+    "Need_Exp": 27000,
+    "Nomal_Exp": 230,
+    "Mid_Boss_Exp": 1800,
+    "Boss_Exp": 4900
+  },
+  {
+    "Level": 15,
+    "Need_Exp": 29000,
+    "Nomal_Exp": 240,
+    "Mid_Boss_Exp": 1900,
+    "Boss_Exp": 5200
+  },
+  {
+    "Level": 16,
+    "Need_Exp": 31000,
+    "Nomal_Exp": 250,
+    "Mid_Boss_Exp": 2000,
+    "Boss_Exp": 5500
+  },
+  {
+    "Level": 17,
+    "Need_Exp": 33000,
+    "Nomal_Exp": 260,
+    "Mid_Boss_Exp": 2100,
+    "Boss_Exp": 5800
+  },
+  {
+    "Level": 18,
+    "Need_Exp": 35000,
+    "Nomal_Exp": 270,
+    "Mid_Boss_Exp": 2200,
+    "Boss_Exp": 6100
+  },
+  {
+    "Level": 19,
+    "Need_Exp": 37000,
+    "Nomal_Exp": 280,
+    "Mid_Boss_Exp": 2300,
+    "Boss_Exp": 6400
+  },
+  {
+    "Level": 20,
+    "Need_Exp": 39000,
+    "Nomal_Exp": 290,
+    "Mid_Boss_Exp": 2400,
+    "Boss_Exp": 6700
+  },
+  {
+    "Level": 21,
+    "Need_Exp": 41000,
+    "Nomal_Exp": 300,
+    "Mid_Boss_Exp": 2500,
+    "Boss_Exp": 7000
+  },
+  {
+    "Level": 22,
+    "Need_Exp": 43000,
+    "Nomal_Exp": 310,
+    "Mid_Boss_Exp": 2600,
+    "Boss_Exp": 7300
+  },
+  {
+    "Level": 23,
+    "Need_Exp": 45000,
+    "Nomal_Exp": 320,
+    "Mid_Boss_Exp": 2700,
+    "Boss_Exp": 7600
+  },
+  {
+    "Level": 24,
+    "Need_Exp": 47000,
+    "Nomal_Exp": 330,
+    "Mid_Boss_Exp": 2800,
+    "Boss_Exp": 7900
+  },
+  {
+    "Level": 25,
+    "Need_Exp": 49000,
+    "Nomal_Exp": 340,
+    "Mid_Boss_Exp": 2900,
+    "Boss_Exp": 8200
+  },
+  {
+    "Level": 26,
+    "Need_Exp": 51000,
+    "Nomal_Exp": 350,
+    "Mid_Boss_Exp": 3000,
+    "Boss_Exp": 8500
+  },
+  {
+    "Level": 27,
+    "Need_Exp": 53000,
+    "Nomal_Exp": 360,
+    "Mid_Boss_Exp": 3100,
+    "Boss_Exp": 8800
+  },
+  {
+    "Level": 28,
+    "Need_Exp": 55000,
+    "Nomal_Exp": 370,
+    "Mid_Boss_Exp": 3200,
+    "Boss_Exp": 9100
+  },
+  {
+    "Level": 29,
+    "Need_Exp": 57000,
+    "Nomal_Exp": 380,
+    "Mid_Boss_Exp": 3300,
+    "Boss_Exp": 9400
+  },
+  {
+    "Level": 30,
+    "Need_Exp": 59000,
+    "Nomal_Exp": 390,
+    "Mid_Boss_Exp": 3400,
+    "Boss_Exp": 9700
+  },
+  {
+    "Level": 31,
+    "Need_Exp": 61000,
+    "Nomal_Exp": 400,
+    "Mid_Boss_Exp": 3500,
+    "Boss_Exp": 10000
+  },
+  {
+    "Level": 32,
+    "Need_Exp": 63000,
+    "Nomal_Exp": 410,
+    "Mid_Boss_Exp": 3600,
+    "Boss_Exp": 10300
+  },
+  {
+    "Level": 33,
+    "Need_Exp": 65000,
+    "Nomal_Exp": 420,
+    "Mid_Boss_Exp": 3700,
+    "Boss_Exp": 10600
+  },
+  {
+    "Level": 34,
+    "Need_Exp": 67000,
+    "Nomal_Exp": 430,
+    "Mid_Boss_Exp": 3800,
+    "Boss_Exp": 10900
+  },
+  {
+    "Level": 35,
+    "Need_Exp": 69000,
+    "Nomal_Exp": 440,
+    "Mid_Boss_Exp": 3900,
+    "Boss_Exp": 11200
+  },
+  {
+    "Level": 36,
+    "Need_Exp": 71000,
+    "Nomal_Exp": 450,
+    "Mid_Boss_Exp": 4000,
+    "Boss_Exp": 11500
+  },
+  {
+    "Level": 37,
+    "Need_Exp": 73000,
+    "Nomal_Exp": 460,
+    "Mid_Boss_Exp": 4100,
+    "Boss_Exp": 11800
+  },
+  {
+    "Level": 38,
+    "Need_Exp": 75000,
+    "Nomal_Exp": 470,
+    "Mid_Boss_Exp": 4200,
+    "Boss_Exp": 12100
+  },
+  {
+    "Level": 39,
+    "Need_Exp": 77000,
+    "Nomal_Exp": 480,
+    "Mid_Boss_Exp": 4300,
+    "Boss_Exp": 12400
+  },
+  {
+    "Level": 40,
+    "Need_Exp": 79000,
+    "Nomal_Exp": 490,
+    "Mid_Boss_Exp": 4400,
+    "Boss_Exp": 12700
+  },
+  {
+    "Level": 41,
+    "Need_Exp": 81000,
+    "Nomal_Exp": 500,
+    "Mid_Boss_Exp": 4500,
+    "Boss_Exp": 13000
+  },
+  {
+    "Level": 42,
+    "Need_Exp": 83000,
+    "Nomal_Exp": 510,
+    "Mid_Boss_Exp": 4600,
+    "Boss_Exp": 13300
+  },
+  {
+    "Level": 43,
+    "Need_Exp": 85000,
+    "Nomal_Exp": 520,
+    "Mid_Boss_Exp": 4700,
+    "Boss_Exp": 13600
+  },
+  {
+    "Level": 44,
+    "Need_Exp": 87000,
+    "Nomal_Exp": 530,
+    "Mid_Boss_Exp": 4800,
+    "Boss_Exp": 13900
+  },
+  {
+    "Level": 45,
+    "Need_Exp": 89000,
+    "Nomal_Exp": 540,
+    "Mid_Boss_Exp": 4900,
+    "Boss_Exp": 14200
+  },
+  {
+    "Level": 46,
+    "Need_Exp": 91000,
+    "Nomal_Exp": 550,
+    "Mid_Boss_Exp": 5000,
+    "Boss_Exp": 14500
+  },
+  {
+    "Level": 47,
+    "Need_Exp": 93000,
+    "Nomal_Exp": 560,
+    "Mid_Boss_Exp": 5100,
+    "Boss_Exp": 14800
+  },
+  {
+    "Level": 48,
+    "Need_Exp": 95000,
+    "Nomal_Exp": 570,
+    "Mid_Boss_Exp": 5200,
+    "Boss_Exp": 15100
+  },
+  {
+    "Level": 49,
+    "Need_Exp": 97000,
+    "Nomal_Exp": 580,
+    "Mid_Boss_Exp": 5300,
+    "Boss_Exp": 15400
+  },
+  {
+    "Level": 50,
+    "Need_Exp": 99000,
+    "Nomal_Exp": 590,
+    "Mid_Boss_Exp": 5400,
+    "Boss_Exp": 15700
+  },
+  {
+    "Level": 51,
+    "Need_Exp": 101000,
+    "Nomal_Exp": 600,
+    "Mid_Boss_Exp": 5500,
+    "Boss_Exp": 16000
+  },
+  {
+    "Level": 52,
+    "Need_Exp": 103000,
+    "Nomal_Exp": 610,
+    "Mid_Boss_Exp": 5600,
+    "Boss_Exp": 16300
+  },
+  {
+    "Level": 53,
+    "Need_Exp": 105000,
+    "Nomal_Exp": 620,
+    "Mid_Boss_Exp": 5700,
+    "Boss_Exp": 16600
+  },
+  {
+    "Level": 54,
+    "Need_Exp": 107000,
+    "Nomal_Exp": 630,
+    "Mid_Boss_Exp": 5800,
+    "Boss_Exp": 16900
+  },
+  {
+    "Level": 55,
+    "Need_Exp": 109000,
+    "Nomal_Exp": 640,
+    "Mid_Boss_Exp": 5900,
+    "Boss_Exp": 17200
+  },
+  {
+    "Level": 56,
+    "Need_Exp": 111000,
+    "Nomal_Exp": 650,
+    "Mid_Boss_Exp": 6000,
+    "Boss_Exp": 17500
+  },
+  {
+    "Level": 57,
+    "Need_Exp": 113000,
+    "Nomal_Exp": 660,
+    "Mid_Boss_Exp": 6100,
+    "Boss_Exp": 17800
+  },
+  {
+    "Level": 58,
+    "Need_Exp": 115000,
+    "Nomal_Exp": 670,
+    "Mid_Boss_Exp": 6200,
+    "Boss_Exp": 18100
+  },
+  {
+    "Level": 59,
+    "Need_Exp": 117000,
+    "Nomal_Exp": 680,
+    "Mid_Boss_Exp": 6300,
+    "Boss_Exp": 18400
+  },
+  {
+    "Level": 60,
+    "Need_Exp": 119000,
+    "Nomal_Exp": 690,
+    "Mid_Boss_Exp": 6400,
+    "Boss_Exp": 18700
+  },
+  {
+    "Level": 61,
+    "Need_Exp": 121000,
+    "Nomal_Exp": 700,
+    "Mid_Boss_Exp": 6500,
+    "Boss_Exp": 19000
+  },
+  {
+    "Level": 62,
+    "Need_Exp": 123000,
+    "Nomal_Exp": 710,
+    "Mid_Boss_Exp": 6600,
+    "Boss_Exp": 19300
+  },
+  {
+    "Level": 63,
+    "Need_Exp": 125000,
+    "Nomal_Exp": 720,
+    "Mid_Boss_Exp": 6700,
+    "Boss_Exp": 19600
+  },
+  {
+    "Level": 64,
+    "Need_Exp": 127000,
+    "Nomal_Exp": 730,
+    "Mid_Boss_Exp": 6800,
+    "Boss_Exp": 19900
+  },
+  {
+    "Level": 65,
+    "Need_Exp": 129000,
+    "Nomal_Exp": 740,
+    "Mid_Boss_Exp": 6900,
+    "Boss_Exp": 20200
+  },
+  {
+    "Level": 66,
+    "Need_Exp": 131000,
+    "Nomal_Exp": 750,
+    "Mid_Boss_Exp": 7000,
+    "Boss_Exp": 20500
+  },
+  {
+    "Level": 67,
+    "Need_Exp": 133000,
+    "Nomal_Exp": 760,
+    "Mid_Boss_Exp": 7100,
+    "Boss_Exp": 20800
+  },
+  {
+    "Level": 68,
+    "Need_Exp": 135000,
+    "Nomal_Exp": 770,
+    "Mid_Boss_Exp": 7200,
+    "Boss_Exp": 21100
+  },
+  {
+    "Level": 69,
+    "Need_Exp": 137000,
+    "Nomal_Exp": 780,
+    "Mid_Boss_Exp": 7300,
+    "Boss_Exp": 21400
+  },
+  {
+    "Level": 70,
+    "Need_Exp": 139000,
+    "Nomal_Exp": 790,
+    "Mid_Boss_Exp": 7400,
+    "Boss_Exp": 21700
+  },
+  {
+    "Level": 71,
+    "Need_Exp": 141000,
+    "Nomal_Exp": 800,
+    "Mid_Boss_Exp": 7500,
+    "Boss_Exp": 22000
+  },
+  {
+    "Level": 72,
+    "Need_Exp": 143000,
+    "Nomal_Exp": 810,
+    "Mid_Boss_Exp": 7600,
+    "Boss_Exp": 22300
+  },
+  {
+    "Level": 73,
+    "Need_Exp": 145000,
+    "Nomal_Exp": 820,
+    "Mid_Boss_Exp": 7700,
+    "Boss_Exp": 22600
+  },
+  {
+    "Level": 74,
+    "Need_Exp": 147000,
+    "Nomal_Exp": 830,
+    "Mid_Boss_Exp": 7800,
+    "Boss_Exp": 22900
+  },
+  {
+    "Level": 75,
+    "Need_Exp": 149000,
+    "Nomal_Exp": 840,
+    "Mid_Boss_Exp": 7900,
+    "Boss_Exp": 23200
+  },
+  {
+    "Level": 76,
+    "Need_Exp": 151000,
+    "Nomal_Exp": 850,
+    "Mid_Boss_Exp": 8000,
+    "Boss_Exp": 23500
+  },
+  {
+    "Level": 77,
+    "Need_Exp": 153000,
+    "Nomal_Exp": 860,
+    "Mid_Boss_Exp": 8100,
+    "Boss_Exp": 23800
+  },
+  {
+    "Level": 78,
+    "Need_Exp": 155000,
+    "Nomal_Exp": 870,
+    "Mid_Boss_Exp": 8200,
+    "Boss_Exp": 24100
+  },
+  {
+    "Level": 79,
+    "Need_Exp": 157000,
+    "Nomal_Exp": 880,
+    "Mid_Boss_Exp": 8300,
+    "Boss_Exp": 24400
+  },
+  {
+    "Level": 80,
+    "Need_Exp": 159000,
+    "Nomal_Exp": 890,
+    "Mid_Boss_Exp": 8400,
+    "Boss_Exp": 24700
+  },
+  {
+    "Level": 81,
+    "Need_Exp": 161000,
+    "Nomal_Exp": 900,
+    "Mid_Boss_Exp": 8500,
+    "Boss_Exp": 25000
+  },
+  {
+    "Level": 82,
+    "Need_Exp": 163000,
+    "Nomal_Exp": 910,
+    "Mid_Boss_Exp": 8600,
+    "Boss_Exp": 25300
+  },
+  {
+    "Level": 83,
+    "Need_Exp": 165000,
+    "Nomal_Exp": 920,
+    "Mid_Boss_Exp": 8700,
+    "Boss_Exp": 25600
+  },
+  {
+    "Level": 84,
+    "Need_Exp": 167000,
+    "Nomal_Exp": 930,
+    "Mid_Boss_Exp": 8800,
+    "Boss_Exp": 25900
+  },
+  {
+    "Level": 85,
+    "Need_Exp": 169000,
+    "Nomal_Exp": 940,
+    "Mid_Boss_Exp": 8900,
+    "Boss_Exp": 26200
+  },
+  {
+    "Level": 86,
+    "Need_Exp": 171000,
+    "Nomal_Exp": 950,
+    "Mid_Boss_Exp": 9000,
+    "Boss_Exp": 26500
+  },
+  {
+    "Level": 87,
+    "Need_Exp": 173000,
+    "Nomal_Exp": 960,
+    "Mid_Boss_Exp": 9100,
+    "Boss_Exp": 26800
+  },
+  {
+    "Level": 88,
+    "Need_Exp": 175000,
+    "Nomal_Exp": 970,
+    "Mid_Boss_Exp": 9200,
+    "Boss_Exp": 27100
+  },
+  {
+    "Level": 89,
+    "Need_Exp": 177000,
+    "Nomal_Exp": 980,
+    "Mid_Boss_Exp": 9300,
+    "Boss_Exp": 27400
+  },
+  {
+    "Level": 90,
+    "Need_Exp": 179000,
+    "Nomal_Exp": 990,
+    "Mid_Boss_Exp": 9400,
+    "Boss_Exp": 27700
+  },
+  {
+    "Level": 91,
+    "Need_Exp": 181000,
+    "Nomal_Exp": 1000,
+    "Mid_Boss_Exp": 9500,
+    "Boss_Exp": 28000
+  },
+  {
+    "Level": 92,
+    "Need_Exp": 183000,
+    "Nomal_Exp": 1010,
+    "Mid_Boss_Exp": 9600,
+    "Boss_Exp": 28300
+  },
+  {
+    "Level": 93,
+    "Need_Exp": 185000,
+    "Nomal_Exp": 1020,
+    "Mid_Boss_Exp": 9700,
+    "Boss_Exp": 28600
+  },
+  {
+    "Level": 94,
+    "Need_Exp": 187000,
+    "Nomal_Exp": 1030,
+    "Mid_Boss_Exp": 9800,
+    "Boss_Exp": 28900
+  },
+  {
+    "Level": 95,
+    "Need_Exp": 189000,
+    "Nomal_Exp": 1040,
+    "Mid_Boss_Exp": 9900,
+    "Boss_Exp": 29200
+  },
+  {
+    "Level": 96,
+    "Need_Exp": 191000,
+    "Nomal_Exp": 1050,
+    "Mid_Boss_Exp": 10000,
+    "Boss_Exp": 29500
+  },
+  {
+    "Level": 97,
+    "Need_Exp": 193000,
+    "Nomal_Exp": 1060,
+    "Mid_Boss_Exp": 10100,
+    "Boss_Exp": 29800
+  },
+  {
+    "Level": 98,
+    "Need_Exp": 195000,
+    "Nomal_Exp": 1070,
+    "Mid_Boss_Exp": 10200,
+    "Boss_Exp": 30100
+  },
+  {
+    "Level": 99,
+    "Need_Exp": 197000,
+    "Nomal_Exp": 1080,
+    "Mid_Boss_Exp": 10300,
+    "Boss_Exp": 30400
+  },
+  {
+    "Level": 100,
+    "Need_Exp": 199000,
+    "Nomal_Exp": 1090,
+    "Mid_Boss_Exp": 10400,
+    "Boss_Exp": 30700
+  }
+]

@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 4d921ff698911924d83c84922adbe6b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8001164762444129047
+    second: LightningBall_0
+  - first:
+      213: -2278306973838363485
+    second: LightningBall_1
+  - first:
+      213: -1063868788919014984
+    second: LightningBall_2
+  - first:
+      213: -3916260800885635326
+    second: LightningBall_3
+  - first:
+      213: -5479364418664661485
+    second: LightningBall_4
+  - first:
+      213: -6060868835398619025
+    second: LightningBall_5
+  - first:
+      213: -2003795611901068900
+    second: LightningBall_6
+  - first:
+      213: 4110300555376469740
+    second: LightningBall_7
+  - first:
+      213: 8009594021821852212
+    second: LightningBall_8
+  - first:
+      213: -3899211048039313328
+    second: LightningBall_9
+  - first:
+      213: 4195905879008541080
+    second: LightningBall_10
+  - first:
+      213: 4625350965585533825
+    second: LightningBall_11
+  - first:
+      213: -4663280207115960940
+    second: LightningBall_12
+  - first:
+      213: -3287448566291445174
+    second: LightningBall_13
+  - first:
+      213: 6419081333466543018
+    second: LightningBall_14
+  - first:
+      213: -2319688459311027311
+    second: LightningBall_15
+  - first:
+      213: 6483024814394796035
+    second: LightningBall_16
+  - first:
+      213: 8707316345638074699
+    second: LightningBall_17
+  - first:
+      213: 6955492097310302933
+    second: LightningBall_18
+  - first:
+      213: 1183468674168174965
+    second: LightningBall_19
+  - first:
+      213: 8865367575790195366
+    second: LightningBall_20
+  - first:
+      213: -4026962320002922679
+    second: LightningBall_21
+  - first:
+      213: -776464246388649966
+    second: LightningBall_22
+  - first:
+      213: 2268378625413674727
+    second: LightningBall_23
+  - first:
+      213: 6031590125741519319
+    second: LightningBall_24
+  - first:
+      213: -5988172852601546417
+    second: LightningBall_25
+  - first:
+      213: -7606200345950374806
+    second: LightningBall_26
+  - first:
+      213: 47956112929648426
+    second: LightningBall_27
+  - first:
+      213: -4084850085064331763
+    second: LightningBall_28
+  - first:
+      213: -5640418322411793599
+    second: LightningBall_29
+  - first:
+      213: 304404669805761605
+    second: LightningBall_30
+  - first:
+      213: 4026872838374808739
+    second: LightningBall_31
+  - first:
+      213: -2341484352753602082
+    second: LightningBall_32
+  - first:
+      213: -1908397107934867019
+    second: LightningBall_33
+  - first:
+      213: -24275381833676028
+    second: LightningBall_34
+  - first:
+      213: 3154020075414284846
+    second: LightningBall_35
+  - first:
+      213: -6938876689018721034
+    second: LightningBall_36
+  - first:
+      213: -8086490740890217595
+    second: LightningBall_37
+  - first:
+      213: -2488645118157885112
+    second: LightningBall_38
+  - first:
+      213: 6235153871764090187
+    second: LightningBall_39
+  - first:
+      213: 788906780559176684
+    second: LightningBall_40
+  - first:
+      213: -4661483822591172500
+    second: LightningBall_41
+  - first:
+      213: 4438764834358164992
+    second: LightningBall_42
+  - first:
+      213: 2781238486980333915
+    second: LightningBall_43
+  - first:
+      213: 2678513148096655724
+    second: LightningBall_44
+  - first:
+      213: 6510629845175805769
+    second: LightningBall_45
+  - first:
+      213: -950134654740297044
+    second: LightningBall_46
+  - first:
+      213: 4641400023701585473
+    second: LightningBall_47
+  - first:
+      213: 1696957114600618708
+    second: LightningBall_48
+  - first:
+      213: -7166843532688567168
+    second: LightningBall_49
+  - first:
+      213: -1918492052622668349
+    second: LightningBall_50
+  - first:
+      213: 7936566083575261786
+    second: LightningBall_51
+  - first:
+      213: -7999984951353480007
+    second: LightningBall_52
+  - first:
+      213: -5113416352537537566
+    second: LightningBall_53
+  - first:
+      213: -873947970209116628
+    second: LightningBall_54
+  - first:
+      213: 6875156447079696426
+    second: LightningBall_55
+  - first:
+      213: -2907050235162478584
+    second: LightningBall_56
+  - first:
+      213: -358769763844043597
+    second: LightningBall_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightningBall_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 634
+        width: 162
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713eade95f8d90f60800000000000000
+      internalID: 8001164762444129047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 388
+        width: 215
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4b117d0e3d160e0800000000000000
+      internalID: -2278306973838363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_6
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 404
+        width: 217
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96bdc19f06c31f0800000000000000
+      internalID: -1063868788919014984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 400
+        width: 220
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99762ee1861134e0800000000000000
+      internalID: -2003795611901068900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 383
+        width: 243
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce62e4be398ba0930800000000000000
+      internalID: 4110300555376469740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 384
+        width: 280
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa8c1835bc72f60800000000000000
+      internalID: 8009594021821852212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningBall_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 439
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac4d452f2a062d0800000000000000
+      internalID: -3287448566291445174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b38945f817992f741be05e1cc112b009
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LightningBall_0: 8001164762444129047
+      LightningBall_1: -3287448566291445174
+      LightningBall_10: 4195905879008541080
+      LightningBall_11: 4625350965585533825
+      LightningBall_12: -4663280207115960940
+      LightningBall_14: 6419081333466543018
+      LightningBall_15: -2319688459311027311
+      LightningBall_16: 6483024814394796035
+      LightningBall_17: 8707316345638074699
+      LightningBall_18: 6955492097310302933
+      LightningBall_19: 1183468674168174965
+      LightningBall_2: -2003795611901068900
+      LightningBall_20: 8865367575790195366
+      LightningBall_21: -4026962320002922679
+      LightningBall_22: -776464246388649966
+      LightningBall_23: 2268378625413674727
+      LightningBall_24: 6031590125741519319
+      LightningBall_25: -5988172852601546417
+      LightningBall_26: -7606200345950374806
+      LightningBall_27: 47956112929648426
+      LightningBall_28: -4084850085064331763
+      LightningBall_29: -5640418322411793599
+      LightningBall_3: 4110300555376469740
+      LightningBall_30: 304404669805761605
+      LightningBall_31: 4026872838374808739
+      LightningBall_32: -2341484352753602082
+      LightningBall_33: -1908397107934867019
+      LightningBall_34: -24275381833676028
+      LightningBall_35: 3154020075414284846
+      LightningBall_36: -6938876689018721034
+      LightningBall_37: -8086490740890217595
+      LightningBall_38: -2488645118157885112
+      LightningBall_39: 6235153871764090187
+      LightningBall_4: 8009594021821852212
+      LightningBall_40: 788906780559176684
+      LightningBall_41: -4661483822591172500
+      LightningBall_42: 4438764834358164992
+      LightningBall_43: 2781238486980333915
+      LightningBall_44: 2678513148096655724
+      LightningBall_45: 6510629845175805769
+      LightningBall_46: -950134654740297044
+      LightningBall_47: 4641400023701585473
+      LightningBall_48: 1696957114600618708
+      LightningBall_49: -7166843532688567168
+      LightningBall_5: -2278306973838363485
+      LightningBall_50: -1918492052622668349
+      LightningBall_51: 7936566083575261786
+      LightningBall_52: -7999984951353480007
+      LightningBall_53: -5113416352537537566
+      LightningBall_54: -873947970209116628
+      LightningBall_55: 6875156447079696426
+      LightningBall_56: -2907050235162478584
+      LightningBall_57: -358769763844043597
+      LightningBall_6: -1063868788919014984
+      LightningBall_9: -3899211048039313328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

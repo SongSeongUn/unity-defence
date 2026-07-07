@@ -1,0 +1,37 @@
+﻿[
+  {
+    "No": 1001,
+    "Grade": 1,
+    "Attack": 10,
+    "Attack_Speed_Rate": 700,
+    "Move_Speed_Rate": 700,
+    "Buff": [],
+    "HP": 100,
+    "Monster_Image": "Slime1"
+  },
+  {
+    "No": 1002,
+    "Grade": 1,
+    "Attack": 5,
+    "Attack_Speed_Rate": 1000,
+    "Move_Speed_Rate": 1000,
+    "Buff": [],
+    "HP": 500,
+    "Monster_Image": "Slime2"
+  },
+  {
+    "No": 1003,
+    "Grade": 3,
+    "Attack": 100,
+    "Attack_Speed_Rate": 500,
+    "Move_Speed_Rate": 500,
+    "Buff": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "HP": 3000,
+    "Monster_Image": "Slime3"
+  }
+]

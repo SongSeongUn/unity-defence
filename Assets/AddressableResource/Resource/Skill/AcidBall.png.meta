@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: df69f4c66bfb7c54d8cb80f357f00973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6283841642312591073
+    second: AcidBall_0
+  - first:
+      213: 5317664746978800286
+    second: AcidBall_1
+  - first:
+      213: 546273614586224744
+    second: AcidBall_2
+  - first:
+      213: 48646591257682420
+    second: AcidBall_3
+  - first:
+      213: -7342812846043716393
+    second: AcidBall_4
+  - first:
+      213: 312997611437853606
+    second: AcidBall_5
+  - first:
+      213: -4125324406855085985
+    second: AcidBall_6
+  - first:
+      213: 8995833893921076598
+    second: AcidBall_7
+  - first:
+      213: -5484475847770991106
+    second: AcidBall_8
+  - first:
+      213: -3219824989356335937
+    second: AcidBall_9
+  - first:
+      213: -1142990383912106224
+    second: AcidBall_10
+  - first:
+      213: -3944704078922180895
+    second: AcidBall_11
+  - first:
+      213: -1634176481034838745
+    second: AcidBall_12
+  - first:
+      213: 6458888061711439782
+    second: AcidBall_13
+  - first:
+      213: -3787431815471559245
+    second: AcidBall_14
+  - first:
+      213: 694957847546388239
+    second: AcidBall_15
+  - first:
+      213: 3034415477672245019
+    second: AcidBall_16
+  - first:
+      213: 8422561971076169872
+    second: AcidBall_17
+  - first:
+      213: 5924346143626479829
+    second: AcidBall_18
+  - first:
+      213: 2141057430234920288
+    second: AcidBall_19
+  - first:
+      213: -2221159294813244894
+    second: AcidBall_20
+  - first:
+      213: -1418236509702841129
+    second: AcidBall_21
+  - first:
+      213: 2557193316725534271
+    second: AcidBall_22
+  - first:
+      213: 1532368580938471923
+    second: AcidBall_23
+  - first:
+      213: 5045226969975987403
+    second: AcidBall_24
+  - first:
+      213: 4628643445816906570
+    second: AcidBall_25
+  - first:
+      213: -7712864070031730318
+    second: AcidBall_26
+  - first:
+      213: 5030595161926961003
+    second: AcidBall_27
+  - first:
+      213: 6458225374008175371
+    second: AcidBall_28
+  - first:
+      213: 4137296404308503147
+    second: AcidBall_29
+  - first:
+      213: -8276245205810769099
+    second: AcidBall_30
+  - first:
+      213: -5910385699455824568
+    second: AcidBall_31
+  - first:
+      213: 1835032720997650252
+    second: AcidBall_32
+  - first:
+      213: -3245949444611508569
+    second: AcidBall_33
+  - first:
+      213: 5954814385269226158
+    second: AcidBall_34
+  - first:
+      213: -3698609283164806770
+    second: AcidBall_35
+  - first:
+      213: -8221806412738271778
+    second: AcidBall_36
+  - first:
+      213: 125191676528986213
+    second: AcidBall_37
+  - first:
+      213: 907085518350905551
+    second: AcidBall_38
+  - first:
+      213: -3209004969836794018
+    second: AcidBall_39
+  - first:
+      213: -3149933762392326539
+    second: AcidBall_40
+  - first:
+      213: -2924625322922099376
+    second: AcidBall_41
+  - first:
+      213: 247177533061922946
+    second: AcidBall_42
+  - first:
+      213: 3904647435698014373
+    second: AcidBall_43
+  - first:
+      213: 2276154040783616689
+    second: AcidBall_44
+  - first:
+      213: 1169920037000463895
+    second: AcidBall_45
+  - first:
+      213: -1274173982811662354
+    second: AcidBall_46
+  - first:
+      213: -2077781764153695487
+    second: AcidBall_47
+  - first:
+      213: 5840116709930518856
+    second: AcidBall_48
+  - first:
+      213: -6546943626017116050
+    second: AcidBall_49
+  - first:
+      213: 1365552899163883294
+    second: AcidBall_50
+  - first:
+      213: -5635168006390173400
+    second: AcidBall_51
+  - first:
+      213: -4473753199005699618
+    second: AcidBall_52
+  - first:
+      213: 131791751726607290
+    second: AcidBall_53
+  - first:
+      213: -8515687974615241516
+    second: AcidBall_54
+  - first:
+      213: -4800957245135328905
+    second: AcidBall_55
+  - first:
+      213: 4958046934449918841
+    second: AcidBall_56
+  - first:
+      213: 2414725179243067194
+    second: AcidBall_57
+  - first:
+      213: 5023313086699370300
+    second: AcidBall_58
+  - first:
+      213: 6195511426576603704
+    second: AcidBall_59
+  - first:
+      213: -2278814722889760723
+    second: AcidBall_60
+  - first:
+      213: 7548779150062656638
+    second: AcidBall_61
+  - first:
+      213: 8610508213852279346
+    second: AcidBall_62
+  - first:
+      213: 8090863775116478451
+    second: AcidBall_63
+  - first:
+      213: -7002356990006922144
+    second: AcidBall_64
+  - first:
+      213: -2832547201709615464
+    second: AcidBall_65
+  - first:
+      213: 7952867906444214829
+    second: AcidBall_66
+  - first:
+      213: -6515589794120530394
+    second: AcidBall_67
+  - first:
+      213: -3734317273254108732
+    second: AcidBall_68
+  - first:
+      213: 2402537131031033975
+    second: AcidBall_69
+  - first:
+      213: -2715567327153134868
+    second: AcidBall_70
+  - first:
+      213: 6199336127575078801
+    second: AcidBall_71
+  - first:
+      213: 928779525731827625
+    second: AcidBall_72
+  - first:
+      213: 4299408355079489
+    second: AcidBall_73
+  - first:
+      213: 6691721314170244993
+    second: AcidBall_74
+  - first:
+      213: 472753719176984588
+    second: AcidBall_75
+  - first:
+      213: 3810967651232620867
+    second: AcidBall_76
+  - first:
+      213: 4657982251082639243
+    second: AcidBall_77
+  - first:
+      213: -1867527248692020457
+    second: AcidBall_78
+  - first:
+      213: -4629035392279710584
+    second: AcidBall_79
+  - first:
+      213: -3481258049537079521
+    second: AcidBall_80
+  - first:
+      213: 6647711243933306554
+    second: AcidBall_81
+  - first:
+      213: 6984699190337507476
+    second: AcidBall_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AcidBall_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 365
+        width: 99
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19962dc15f4bc8a0800000000000000
+      internalID: -6283841642312591073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 347
+        width: 233
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92f946c9e32cc940800000000000000
+      internalID: 5317664746978800286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 341
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a49b45f0c49700800000000000000
+      internalID: 546273614586224744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 346
+        width: 285
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a27721d3dca000800000000000000
+      internalID: 48646591257682420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 344
+        width: 312
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a363de96191a90800000000000000
+      internalID: -7342812846043716393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_6
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 351
+        width: 247
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8c455badf75400800000000000000
+      internalID: 312997611437853606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AcidBall_5
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 348
+        width: 314
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f884e8988577910800000000000000
+      internalID: 1835032720997650252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1c2bc465919831448bf09310182a30d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AcidBall_0: -6283841642312591073
+      AcidBall_1: 546273614586224744
+      AcidBall_10: -1142990383912106224
+      AcidBall_11: -3944704078922180895
+      AcidBall_12: -1634176481034838745
+      AcidBall_13: 6458888061711439782
+      AcidBall_14: -3787431815471559245
+      AcidBall_15: 694957847546388239
+      AcidBall_16: 3034415477672245019
+      AcidBall_17: 8422561971076169872
+      AcidBall_18: 5924346143626479829
+      AcidBall_19: 2141057430234920288
+      AcidBall_2: 5317664746978800286
+      AcidBall_20: -2221159294813244894
+      AcidBall_21: -1418236509702841129
+      AcidBall_22: 2557193316725534271
+      AcidBall_23: 1532368580938471923
+      AcidBall_24: 5045226969975987403
+      AcidBall_25: 4628643445816906570
+      AcidBall_26: -7712864070031730318
+      AcidBall_27: 5030595161926961003
+      AcidBall_28: 6458225374008175371
+      AcidBall_29: 4137296404308503147
+      AcidBall_3: 48646591257682420
+      AcidBall_30: -8276245205810769099
+      AcidBall_31: -5910385699455824568
+      AcidBall_33: -3245949444611508569
+      AcidBall_34: 5954814385269226158
+      AcidBall_35: -3698609283164806770
+      AcidBall_36: -8221806412738271778
+      AcidBall_37: 125191676528986213
+      AcidBall_38: 907085518350905551
+      AcidBall_39: -3209004969836794018
+      AcidBall_4: -7342812846043716393
+      AcidBall_40: -3149933762392326539
+      AcidBall_41: -2924625322922099376
+      AcidBall_42: 247177533061922946
+      AcidBall_43: 3904647435698014373
+      AcidBall_44: 2276154040783616689
+      AcidBall_45: 1169920037000463895
+      AcidBall_46: -1274173982811662354
+      AcidBall_47: -2077781764153695487
+      AcidBall_48: 5840116709930518856
+      AcidBall_49: -6546943626017116050
+      AcidBall_5: 1835032720997650252
+      AcidBall_50: 1365552899163883294
+      AcidBall_51: -5635168006390173400
+      AcidBall_52: -4473753199005699618
+      AcidBall_53: 131791751726607290
+      AcidBall_54: -8515687974615241516
+      AcidBall_55: -4800957245135328905
+      AcidBall_56: 4958046934449918841
+      AcidBall_57: 2414725179243067194
+      AcidBall_58: 5023313086699370300
+      AcidBall_59: 6195511426576603704
+      AcidBall_6: 312997611437853606
+      AcidBall_60: -2278814722889760723
+      AcidBall_61: 7548779150062656638
+      AcidBall_62: 8610508213852279346
+      AcidBall_63: 8090863775116478451
+      AcidBall_64: -7002356990006922144
+      AcidBall_65: -2832547201709615464
+      AcidBall_66: 7952867906444214829
+      AcidBall_67: -6515589794120530394
+      AcidBall_68: -3734317273254108732
+      AcidBall_69: 2402537131031033975
+      AcidBall_7: 8995833893921076598
+      AcidBall_70: -2715567327153134868
+      AcidBall_71: 6199336127575078801
+      AcidBall_72: 928779525731827625
+      AcidBall_73: 4299408355079489
+      AcidBall_74: 6691721314170244993
+      AcidBall_75: 472753719176984588
+      AcidBall_76: 3810967651232620867
+      AcidBall_77: 4657982251082639243
+      AcidBall_78: -1867527248692020457
+      AcidBall_79: -4629035392279710584
+      AcidBall_8: -5484475847770991106
+      AcidBall_80: -3481258049537079521
+      AcidBall_81: 6647711243933306554
+      AcidBall_82: 6984699190337507476
+      AcidBall_9: -3219824989356335937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
