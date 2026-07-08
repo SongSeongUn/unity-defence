@@ -16,7 +16,9 @@ Unity 기반 2D 자동 전투 / 디펜스 스타일 포트폴리오 프로젝트
 ## 시연
  - Scene/IntroScene 로드 후 실행
  
-> 시연 영상 또는 GIF 추가 예정
+> 시연 영상
+<img width="270" height="480" alt="Image" src="https://github.com/user-attachments/assets/cd993af5-d8bb-409e-a9a6-8baefa38d4ad" />
+
 
 - 웨이브 몬스터 스폰
 - 자동 타겟팅 및 스킬 발사
