@@ -40,12 +40,12 @@ namespace Table
                 var jsonContent = File.ReadAllText(fileName, System.Text.Encoding.UTF8);
                 if (jsonContent.Length == 0 || jsonContent == "[]")
                 {
-                    throw new Exception($"/T_{typeof(T)}.json의 테이블을 읽을 수 없습니다. 테이블 확인해주세요.");
+                    throw new Exception($"/{typeof(T)}.json의 테이블을 읽을 수 없습니다. 테이블 확인해주세요.");
                 }
                 
-                // 부동 소수점 맞추기 
+                // 컨버팅 타입
                 var settings = new JsonSerializerSettings();
-                settings.Converters.Add(new FlexibleFloatConvert());
+                //settings.Converters.Add(new FlexibleFloatConvert());
                 settings.Converters.Add(new FlexibleIntConvert());
 
                 // 작업 도중 취소 확인

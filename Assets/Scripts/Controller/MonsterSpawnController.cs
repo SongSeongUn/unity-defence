@@ -32,7 +32,7 @@ public class MonsterSpawnController : MonoBehaviour
         }
 
         monsterObj.Init(config, _wallActor);
-        monsterRegistry.Register(monsterObj);
+        monsterRegistry.Register(monsterObj); // MonsterTracker 등록
         return monsterObj;
     }
 
